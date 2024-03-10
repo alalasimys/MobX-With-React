@@ -1,4 +1,4 @@
-import { action, computed, observable, reaction, when } from 'mobx';
+import { action, computed, observable } from 'mobx';
 import RootStore from '../../root-store';
 import Todo from './todo';
 
