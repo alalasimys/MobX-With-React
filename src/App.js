@@ -1,5 +1,4 @@
 import './App.css';
-import './exercises/ex-1';
 
 function App() {
   return (

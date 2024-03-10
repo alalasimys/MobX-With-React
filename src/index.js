@@ -2,6 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
+import './exercises/ex-2/index.ts';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
